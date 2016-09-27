@@ -1,0 +1,2 @@
+# SchoolServer
+Application for schools
